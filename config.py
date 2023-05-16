@@ -28,13 +28,6 @@ SESSION_COOKIE_NAME = 'beforegreatness'
 # Session timeout set to 4 hours
 PERMANENT_SESSION_LIFETIME = timedelta(hours=4)
 
-# SQLite DB info
-# TODO Add MySQL connections for Production
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-db_path = os.path.join(BASE_DIR, 'b4g.db')
-SQLALCHEMY_DATABASE_URI = f'sqlite:///{db_path}'
-SQLALCHEMY_TRACK_MODIFICATIONS = True
-
 # Threads
 THREADS_PER_PAGE = 2
 

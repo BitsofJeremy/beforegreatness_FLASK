@@ -23,3 +23,15 @@ def record_params(setup_state):
 def index():
     """ Main page """
     return render_template('index.html')
+
+
+@home.route('/about', methods=['GET'])
+def about():
+    """ About Us page """
+    return render_template('about.html')
+
+
+@home.route('/maillist', methods=['POST'])
+def maillist_post():
+    """ Subscribe to mail list endpoint """
+    return render_template('index.html')
