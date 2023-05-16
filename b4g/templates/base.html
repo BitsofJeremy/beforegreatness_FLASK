@@ -28,13 +28,29 @@
             integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
             crossorigin="anonymous"
     >
+    <!--    Add background style here for Jinja2 to work-->
+    <style>
+        .header-image {
+            background-image: url("{{ url_for('static', filename='./img/gym.png') }}");
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-color: #999;
+        }
+    </style>
 
 </head>
 
 <body>
-<section class="hero is-info is-fullheight">
+
+<section class="hero is-info is-fullheight header-image">
+
+
+
+
   <!-- Hero head: will stick at the top -->
-  <div class="hero-head">
+    <div class="hero-head">
           <!-- NavBar -->
     <nav class="navbar" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
@@ -77,7 +93,7 @@
                     Login
                 </a>
                 <a href="{{ url_for('auth.signup') }}" class="navbar-item">
-                    Sign Up
+                    Join Us
                 </a>
                 {% endif %}
                 {% if current_user.is_authenticated %}
@@ -111,12 +127,12 @@
 
   <!-- Hero footer: will stick at the bottom -->
   <div class="hero-foot">
-    <nav class="tabs">
+    <nav class="tabs is-boxed is-fullwidth">
       <div class="container">
         <ul>
-          <li><a>MICRO GYM</a></li>
-          <li><a>MTB LESSONS</a></li>
-          <li><a>SNOW LESSONS</a></li>
+          <li><a href="{{ url_for('home.index') }}" class="">GYM</a></li>
+          <li><a href="{{ url_for('home.index') }}" class="">DIRT</a></li>
+          <li><a href="{{ url_for('home.index') }}" class="">SNOW</a></li>
         </ul>
       </div>
     </nav>
