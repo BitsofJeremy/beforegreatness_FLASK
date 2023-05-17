@@ -41,3 +41,6 @@ CSRF_SESSION_KEY = os.urandom(32).hex()
 # Secret key for signing cookies
 SECRET_KEY = os.urandom(32).hex()
 
+# Mailgun things
+MAILGUN_API_KEY = os.getenv('MAILGUN_API_KEY')
+MAILGUN_MAILLIST = os.getenv('MAILGUN_MAILLIST')

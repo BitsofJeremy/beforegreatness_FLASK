@@ -22,14 +22,12 @@
     <!-- <link rel="icon" type="image/png" href="{{ url_for('static', filename='img/favicon.png') }}"> -->
     
     <!--Font Awesome-->
-    <link
-            rel="stylesheet"
-            href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
-            integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
-            crossorigin="anonymous"
-    >
+    <script src="https://kit.fontawesome.com/27ddd86667.js" crossorigin="anonymous"></script>
+
+    <!-- fancy title font-->
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Permanent+Marker">
+
     <!--    Add background style here for Jinja2 to work-->
     <style>
         .header-image {
@@ -54,50 +52,49 @@
   <!-- Hero head: will stick at the top -->
     <div class="hero-head">
           <!-- NavBar -->
-<!--    <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">-->
-<!--        <div class="navbar-brand">-->
-<!--            &lt;!&ndash; Add logo here &ndash;&gt;-->
+    <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <!-- Add logo here -->
 
+            <!-- burgers Mmmmmmm -->
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navigation">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+        </div>
 
-<!--            &lt;!&ndash; burgers Mmmmmmm &ndash;&gt;-->
-<!--            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navigation">-->
-<!--              <span aria-hidden="true"></span>-->
-<!--              <span aria-hidden="true"></span>-->
-<!--              <span aria-hidden="true"></span>-->
-<!--            </a>-->
-<!--        </div>-->
+        <div id="navigation" class="navbar-menu">
+            <div class="navbar-start">
+                <!-- For the left side NavBar -->
+            </div>
 
-<!--        <div id="navigation" class="navbar-menu">-->
-<!--            <div class="navbar-start">-->
-<!--                &lt;!&ndash; For the left side NavBar &ndash;&gt;-->
-<!--            </div>-->
+            <div class="navbar-end">
+                <!-- For the right side NavBar -->
+                <a class="navbar-item" href="{{ url_for('home.index') }}">
+                    Home
+                </a>
 
-<!--            <div class="navbar-end">-->
-<!--                &lt;!&ndash; For the right side NavBar &ndash;&gt;-->
-<!--                <a class="navbar-item" href="{{ url_for('home.index') }}">-->
-<!--                    Home-->
-<!--                </a>-->
+                <a href="{{ url_for('home.about') }}" class="navbar-item">
+                    About Us
+                </a>
 
-<!--                <a href="{{ url_for('home.about') }}" class="navbar-item">-->
-<!--                    About Us-->
-<!--                </a>-->
+                <a href="https://blog.beforegreatness.com" class="navbar-item">
+                    Our Blog
+                </a>
 
-<!--                <a href="{{ url_for('home.index') }}" class="navbar-item">-->
-<!--                    Our Blog-->
-<!--                </a>-->
-
-<!--            </div>-->
-<!--        </div>-->
-<!--    </nav>-->
+            </div>
+        </div>
+    </nav>
 </div>
 
   <!-- Hero content: will be in the middle -->
     <div class="hero-body">
-            <div class="container has-text-centered">
+            <div class="container is-fluid has-text-centered">
                 <!-- messages from FLask -->
             {% with messages = get_flashed_messages() %}
                 {% if messages %}
-                <div class="notification is-link is-light">
+                <div class="notification is-primary">
                 <button class="delete"></button>
                   {{ messages[0] }}
                 </div>
@@ -109,6 +106,45 @@
                {% endblock %}
             </div>
     </div>
+    <div class="hero-foot">
+    <nav class="tabs is-boxed is-fullwidth is-centered">
+      <div class="container">
+        <ul>
+          <li>
+              <a href="http://twitter.com">
+              <div class="icon-text">
+              <span class="icon has-text-info">
+                <i class="fa-brands fa-twitter"></i>
+              </span>
+              <span>Twitter</span>
+            </div>
+                  </a>
+          </li>
+          <li>
+              <a href="http://tiktok.com">
+              <div class="icon-text">
+              <span class="icon has-text-warning">
+                <i class="fa-brands fa-tiktok"></i>
+              </span>
+              <span>TikTok</span>
+            </div>
+              </a>
+          </li>
+          <li>
+              <a href="http://instagram.com">
+              <div class="icon-text">
+              <span class="icon has-text-success">
+                <i class="fa-brands fa-square-instagram"></i>
+              </span>
+              <span>Instagram</span>
+            </div>
+              </a>
+          </li>
+
+        </ul>
+      </div>
+    </nav>
+  </div>
 
 <!-- JavaScript to make burger menu work -->
 <script>
