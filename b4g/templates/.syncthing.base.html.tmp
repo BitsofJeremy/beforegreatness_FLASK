@@ -96,6 +96,10 @@
                     home
                 </a>
 
+<!--                <a href="{{ url_for('home.about') }}" class="navbar-item b612-mono has-text-white">-->
+<!--                    about us-->
+<!--                </a>-->
+
                 <a href="https://blog.beforegreatness.com" class="navbar-item b612-mono has-text-white">
                     our blog
                 </a>

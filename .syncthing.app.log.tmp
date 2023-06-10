@@ -1,0 +1,1138 @@
+{"date": "2023-05-15 11:25:14,207", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-15 11:25:14,208", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 11:25:14,208", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 11:25:14,383", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 11:25:14,389", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 11:25:24,454", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:24] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 11:25:24,957", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-15 11:25:28,473", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:28] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 11:25:37,626", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:37] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -"}
+{"date": "2023-05-15 11:25:37,653", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:37] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -"}
+{"date": "2023-05-15 11:25:37,654", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:37] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -"}
+{"date": "2023-05-15 11:25:37,664", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:37] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -"}
+{"date": "2023-05-15 11:25:37,686", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:37] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 11:25:50,219", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 11:25:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:35:56,840", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-15 13:35:56,840", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 13:35:56,841", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 13:35:57,017", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 13:35:57,023", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 13:36:02,756", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:36:02] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:36:08,865", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:36:08] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:36:21,981", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:36:21] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -"}
+{"date": "2023-05-15 13:36:22,009", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:36:22] "[36mGET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 13:36:22,009", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:36:22] "[36mGET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 13:36:22,017", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:36:22] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 13:36:22,029", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:36:22] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 13:39:48,100", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000"}
+{"date": "2023-05-15 13:39:48,101", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 13:39:48,101", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 13:39:48,276", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 13:39:48,280", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 13:39:57,786", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:39:57] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:39:58,101", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:39:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-15 13:39:59,861", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:39:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:02,674", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:02] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:11,854", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:11] "[32mPOST /signup HTTP/1.1[0m" 302 -"}
+{"date": "2023-05-15 13:40:11,864", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:11] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:17,226", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:17] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:27,328", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:27] "[32mPOST /login HTTP/1.1[0m" 302 -"}
+{"date": "2023-05-15 13:40:27,347", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:27] "GET /profile HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:31,407", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:31] "GET /profile HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:32,842", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:33,589", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:34,658", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:36,141", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:36] "GET /profile HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:40:48,194", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:48] "[32mGET /logout HTTP/1.1[0m" 302 -"}
+{"date": "2023-05-15 13:40:48,199", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:40:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:46:52,369", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000"}
+{"date": "2023-05-15 13:46:52,369", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 13:46:52,369", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 13:46:52,554", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 13:46:52,558", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 13:46:54,642", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:46:54] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:47:10,621", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:47:10] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:47:20,814", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:47:20] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:47:44,372", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:47:44] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:47:55,414", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:47:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:48:05,941", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:48:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:49:11,034", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:49:11] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:49:50,580", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:49:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:50:34,792", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:50:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:52:38,759", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:52:38] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:53:40,163", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:53:40] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 13:54:15,877", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 13:54:15] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 14:21:57,185", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 14:21:57] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 14:21:57,848", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 14:21:57] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 14:21:58,600", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 14:21:58] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 14:21:59,649", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 14:21:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 14:40:55,988", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 14:40:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 14:41:42,564", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 14:41:42] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 14:42:55,823", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 14:42:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:34:18,060", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-15 15:34:18,060", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 15:34:18,061", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 15:34:18,231", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 15:34:18,236", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 15:34:25,352", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:34:25] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:16,811", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:16] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:24,628", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:24] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:28,342", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:28] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:29,243", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:29] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:29,930", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:29] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:31,683", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:31] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:32,702", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:32] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:33,961", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:33] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:36:35,817", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:36:35] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:37:10,968", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:37:10] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:37:13,433", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:37:13] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:37:16,633", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:37:16] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:38:18,787", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:38:18] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:38:22,649", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:38:22] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:39:28,968", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:39:28] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:39:35,625", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:39:35] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:39:42,410", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:39:42] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:39:50,012", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:39:50] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:39:53,080", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:39:53] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:40:03,972", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:40:03] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:40:23,402", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:40:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:41:04,883", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:41:04] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:41:25,561", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:41:25] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:41:47,181", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:41:47] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:42:29,020", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:42:29] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:42:49,639", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:42:49] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:42:50,556", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:42:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:42:51,274", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:42:51] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:42:51,906", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:42:51] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:49:44,293", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:49:44] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:50:01,452", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:50:01] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:52:16,702", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:52:16] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:52:21,502", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:52:21] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:52:22,788", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:52:22] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-15 15:52:24,237", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 15:52:24] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:47:59,464", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-15 19:47:59,464", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 19:47:59,465", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 19:47:59,644", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 19:47:59,651", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 19:48:03,641", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:48:03] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:48:03,676", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:48:03] "[33mGET /static/static/img/background.jpg HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-15 19:48:26,937", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:48:26] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:48:26,960", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:48:26] "[33mGET /static/static/img/background.jpg HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-15 19:48:54,693", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-15 19:48:54,693", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 19:48:54,693", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 19:48:54,864", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 19:48:54,869", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 19:48:56,902", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:48:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:48:56,931", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:48:56] "GET /static/img/background.jpg HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:49:19,925", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:49:19] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:49:19,945", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:49:19] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 19:49:35,730", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:49:35] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:49:35,753", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:49:35] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 19:50:32,091", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:50:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:50:32,112", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:50:32] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 19:55:27,603", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:55:27] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:55:27,657", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:55:27] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 19:55:27,677", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:55:27] "[33mGET /demo.jpg HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-15 19:57:47,975", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:57:47] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:58:17,636", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:58:17] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 19:58:17,687", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 19:58:17] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:02:54,324", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:02:54] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:02:54,442", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:02:54] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:06:32,234", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:06:32,617", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:32] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:06:33,664", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:06:33,707", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:33] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:06:35,428", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:35] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:06:35,458", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:35] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:06:36,697", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:36] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:06:36,718", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:06:36] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:07:52,197", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:07:52] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:07:52,286", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:07:52] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:08:14,641", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:08:14] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:08:14,697", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:08:14] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:08:32,728", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:08:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:08:32,750", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:08:32] "[36mGET /static/img/background.jpg HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-15 20:13:50,870", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:13:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:13:50,936", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:13:50] "GET /static/img/background.jpg HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:17:34,338", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:17:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:17:34,394", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:17:34] "GET /static/img/background.jpg HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:22:03,143", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-15 20:22:03,143", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-15 20:22:03,143", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-15 20:22:03,314", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-15 20:22:03,321", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-15 20:22:07,650", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:22:07] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-15 20:22:07,763", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [15/May/2023 20:22:07] "GET /static/img/gym.png HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:19:29,186", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-16 13:19:29,194", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-16 13:19:29,197", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 13:19:29,399", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 13:19:29,405", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 13:21:27,106", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:27] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:21:27,374", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:27] "GET /static/img/gym.png HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:21:35,768", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:35] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:21:35,802", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:35] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:21:51,187", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:51] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:21:51,220", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:51] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:21:52,897", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:52] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:21:52,936", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:21:52] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:22:27,040", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:27] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:22:27,066", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:27] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:22:28,621", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:28] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:22:28,651", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:28] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:22:40,358", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:40] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:22:40,382", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:40] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:22:54,676", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:54] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:22:54,702", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:54] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:22:56,179", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:22:56,210", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:56] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:22:57,265", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:57] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:22:57,296", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:22:57] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:23:48,863", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:23:48,915", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:48] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:23:49,998", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:49] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:23:50,032", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:50] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:23:55,385", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:23:55,418", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:55] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:23:56,048", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:23:56,082", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:56] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:23:56,573", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:23:56,609", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:23:56] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:21,741", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:21] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:21,818", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:21] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:23,078", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:23,114", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:23,681", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:23,714", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:40,897", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:40] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:40,931", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:40] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:44,378", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:44] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:44,404", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:44] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:44,759", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:44] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:44,784", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:44] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:44,925", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:44] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:44,949", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:44] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:25:45,210", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:45] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:25:45,300", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:25:45] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:26:09,726", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:26:09] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:26:09,761", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:26:09] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:26:14,073", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-16 13:26:14,073", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-16 13:26:14,074", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 13:26:14,265", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 13:26:14,272", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 13:26:15,828", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:26:15] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:26:15,861", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:26:15] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:26:16,502", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:26:16] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:26:16,534", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:26:16] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:27:10,409", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:27:10] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:27:10,447", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:27:10] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:28:43,891", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:28:43] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:28:43,920", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:28:43] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:29:05,090", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:29:05,122", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:05] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:29:26,396", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:26] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:29:26,421", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:26] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:29:55,451", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:29:55,489", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:55] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:29:56,656", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:29:56,695", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:29:56] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:31:00,022", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:31:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:31:00,058", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:31:00] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:31:59,015", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:31:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:31:59,051", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:31:59] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:32:20,887", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:32:20] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:32:20,925", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:32:20] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:32:53,331", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:32:53] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:32:53,367", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:32:53] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:33:01,667", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:33:01] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:33:01,705", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:33:01] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:33:23,371", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:33:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:33:23,413", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:33:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:33:29,332", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:33:29] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:33:29,368", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:33:29] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:34:23,874", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:34:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:34:23,909", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:34:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:35:24,106", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:35:24] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:35:24,143", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:35:24] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:35:32,608", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:35:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:35:32,644", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:35:32] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:35:37,950", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:35:37] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:35:37,987", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:35:37] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:36:22,975", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:22] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:36:23,009", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:36:28,563", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:28] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:36:28,598", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:28] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:36:41,498", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:41] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:36:41,524", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:41] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:36:52,028", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:52] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:36:52,056", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:36:52] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:37:01,174", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:37:01] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:37:01,209", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:37:01] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:37:37,546", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:37:37] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:37:37,582", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:37:37] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:37:59,099", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:37:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:37:59,134", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:37:59] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:38:10,668", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:38:10] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:38:10,690", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:38:10] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:38:11,460", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:38:11] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:38:11,491", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:38:11] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:38:41,132", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:38:41] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:38:41,167", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:38:41] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:43:21,572", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:43:21] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:43:21,614", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:43:21] "GET /static/img/gym.png HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:43:58,131", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:43:58] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:43:58,290", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:43:58] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:43:59,746", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:43:59] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:43:59,779", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:43:59] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:44:04,076", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:04] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:44:04,105", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:04] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:44:05,774", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:44:05,810", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:05] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:44:06,672", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:06] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:44:06,706", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:06] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:44:08,058", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:44:08,101", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:44:08] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:47:01,650", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:47:01] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:47:01,686", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:47:01] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:47:36,586", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:47:36] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:47:36,622", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:47:36] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:48:10,318", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:10] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:48:10,350", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:10] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:48:23,027", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:48:23,059", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:48:30,997", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:30] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:48:31,027", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:31] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:48:32,339", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:32] "[33mPOST /maillist HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-16 13:48:50,380", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:48:50,400", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:48:50] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:49:10,833", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:10] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:49:10,865", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:10] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:49:19,762", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:19] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:49:19,789", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:19] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:49:20,840", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:20] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:49:20,870", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:20] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:49:34,172", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:49:34,208", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:34] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:49:43,681", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:43] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:49:43,704", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:49:43] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:50:23,448", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:50:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:50:23,477", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:50:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:50:24,225", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:50:24] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:50:24,258", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:50:24] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:50:47,204", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:50:47] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:50:47,228", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:50:47] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:51:26,330", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:51:26] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:51:26,362", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:51:26] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:51:39,110", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:51:39] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:51:39,136", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:51:39] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:52:02,610", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:02] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:52:02,644", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:02] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:52:11,369", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:11] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:52:11,399", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:11] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:52:12,182", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:12] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:52:12,214", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:12] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:52:12,870", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:12] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:52:12,900", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:12] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:52:22,554", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:22] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:52:22,582", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:52:22] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:53:57,485", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-16 13:53:57,538", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 13:53:57,776", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 13:53:57,783", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 13:54:00,080", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:54:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:54:00,121", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:54:00] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:54:03,434", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:54:03] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:54:03,466", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:54:03] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:55:02,132", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:02] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:55:02,168", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:02] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:55:34,464", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:55:34,496", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:34] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:55:38,074", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:38] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:55:38,104", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:38] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:55:42,964", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:42] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:55:42,992", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:42] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:55:44,502", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:44] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:55:44,535", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:44] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:55:46,193", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:55:46,223", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:55:46] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:56:13,885", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:56:13] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:56:13,911", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:56:13] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:56:25,308", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:56:25] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:56:25,329", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:56:25] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 13:56:34,875", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:56:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 13:56:34,901", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 13:56:34] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:29:46,750", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:29:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:29:46,806", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:29:46] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:29:48,258", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:29:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:29:48,309", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:29:48] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:30:33,776", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:30:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:30:33,813", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:30:33] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:31:32,578", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:31:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:31:32,613", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:31:32] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:31:53,476", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:31:53] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:31:53,499", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:31:53] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:35:22,930", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:35:22] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:35:22,964", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:35:22] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:36:27,480", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:36:27] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:36:27,513", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:36:27] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:38:03,088", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:38:03] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:38:03,121", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:38:03] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:41:16,844", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:41:16] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:41:16,878", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:41:16] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:41:58,451", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:41:58] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:41:58,485", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:41:58] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:42:22,984", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:42:22] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:42:23,022", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:42:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:47:23,740", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:47:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:47:23,782", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:47:23] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:48:21,802", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:21] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:48:21,890", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:21] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:48:34,647", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:48:34,678", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:34] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:48:54,198", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:54] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:48:54,232", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:54] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:48:55,723", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:48:55,754", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:48:55] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:49:03,537", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:03] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:49:03,571", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:03] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:49:03,935", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:03] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:49:03,969", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:03] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:49:04,172", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:04] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:49:04,205", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:04] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:49:05,706", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:49:05,740", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:05] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:49:34,506", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:49:34,538", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:49:34] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:50:11,866", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:50:11] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:50:11,895", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:50:11] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:50:40,219", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:50:40] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:50:40,246", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:50:40] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:51:35,174", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:51:35] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:51:35,198", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:51:35] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:11,776", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:11] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:11,810", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:11] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:13,278", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:13] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:13,308", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:13] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:14,110", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:14] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:14,137", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:14] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:14,891", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:14] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:14,918", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:14] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:18,144", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:18] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:18,174", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:18] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:24,510", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:24] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:24,541", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:24] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:26,129", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:26] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:26,158", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:26] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:27,892", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:27] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:27,924", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:27] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:52:28,925", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:28] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:52:28,959", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:52:28] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:53:05,976", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:53:06,010", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:06] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:53:06,709", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:06] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:53:06,741", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:06] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:53:07,062", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:07] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:53:07,094", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:07] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:53:17,060", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:17] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:53:17,082", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:17] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:53:50,934", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:53:50,965", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:53:50] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:13,533", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:13] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:13,567", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:13] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:26,841", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:26] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:26,877", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:26] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:42,121", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:42] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:42,160", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:42] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:42,785", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:42] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:42,816", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:42] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:43,410", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:43] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:43,439", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:43] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:44,377", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:44] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:44,409", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:44] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:45,296", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:45] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:45,324", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:45] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:55:47,085", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:47] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:55:47,118", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:55:47] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:57:56,408", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:57:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:57:56,448", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:57:56] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 14:58:04,124", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:58:04] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-16 14:58:04,164", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 14:58:04] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:38:40,152", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-16 15:38:40,152", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-16 15:38:40,153", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 15:38:40,325", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 15:38:40,330", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 15:38:46,636", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:38:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:38:46,761", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:38:46] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:38:48,820", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:38:48] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:38:48,855", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:38:48] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:39:26,786", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:39:26] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:39:26,806", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:39:26] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:40:03,995", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:40:03] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:40:04,029", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:40:04] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:40:31,399", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:40:31] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:40:31,432", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:40:31] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:40:47,422", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:40:47] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:40:47,446", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:40:47] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:41:03,542", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:41:03] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:41:03,577", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:41:03] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:41:16,638", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:41:16] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:41:16,673", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:41:16] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:43:05,170", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:43:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:43:05,205", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:43:05] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:43:06,019", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:43:06] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:43:06,050", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:43:06] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:43:28,758", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:43:28] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:43:28,792", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:43:28] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:45:25,785", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:45:25] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:45:25,818", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:45:25] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:45:35,558", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:45:35] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:45:35,592", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:45:35] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:45:47,473", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:45:47] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:45:47,508", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:45:47] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:46:09,680", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:09] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:46:09,711", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:09] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:46:31,253", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:31] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:46:31,276", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:31] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:46:42,579", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:42] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:46:42,612", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:42] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:46:43,619", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:43] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:46:43,652", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:46:43] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:48:11,926", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:48:11] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:48:12,013", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:48:12] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:48:37,404", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:48:37] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:48:37,432", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:48:37] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:49:01,915", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:49:01] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:49:01,935", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:49:01] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:49:19,893", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:49:19] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:49:19,927", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:49:19] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:49:47,338", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:49:47] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:49:47,357", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:49:47] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:50:43,301", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:50:43] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:50:43,335", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:50:43] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:51:59,692", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:51:59] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:51:59,752", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:51:59] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:52:03,262", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:03] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:52:03,298", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:03] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:52:04,280", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:04] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:52:04,309", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:04] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:52:05,743", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:52:05,777", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:05] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:52:06,999", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:06] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:52:07,029", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:07] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:52:08,448", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:08] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:52:08,476", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:08] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:52:09,962", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:09] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:52:09,993", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:09] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:52:11,845", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:11] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:52:11,873", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:52:11] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:53:10,013", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:53:10] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:53:10,047", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:53:10] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:54:24,933", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:54:24] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:54:24,968", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:54:24] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:54:38,238", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:54:38] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:54:38,272", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:54:38] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:54:52,147", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:54:52] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:54:52,179", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:54:52] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:55:06,303", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:06] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:55:06,338", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:06] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:55:09,012", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:09] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:55:09,042", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:09] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:55:09,803", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:09] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:55:09,839", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:09] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:55:14,615", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:14] "GET /signup HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:55:14,645", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:14] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:55:17,964", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:17] "GET /login HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:55:17,993", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:17] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:55:59,558", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:55:59,593", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:55:59] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:58:31,722", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-16 15:58:31,722", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-16 15:58:31,722", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 15:58:31,806", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 15:58:31,812", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 15:58:34,828", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:58:34] "[35m[1mGET / HTTP/1.1[0m" 500 -"}
+{"date": "2023-05-16 15:58:34,859", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:58:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:58:34,860", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:58:34] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:58:34,874", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:58:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:58:34,886", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:58:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:59:07,097", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:07] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:59:07,137", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:07] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:59:08,758", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:59:08,787", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:08] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:59:09,426", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:09] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:59:09,457", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:09] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:59:10,451", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:10] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:59:10,484", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:10] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 15:59:13,293", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:13] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 15:59:13,322", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 15:59:13] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 16:00:34,745", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:00:34] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 16:00:34,784", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:00:34] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 16:00:42,000", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:00:42] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 16:00:42,036", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:00:42] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 16:01:31,229", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:01:31] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 16:01:31,262", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:01:31] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 16:02:09,830", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:02:09] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-16 16:02:09,852", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:02:09] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 16:02:46,243", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:02:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 16:02:46,276", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 16:02:46] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:01,197", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-16 19:22:01,197", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-16 19:22:01,198", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 19:22:01,284", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 19:22:01,290", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 19:22:15,290", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:15] "[35m[1mGET / HTTP/1.1[0m" 500 -"}
+{"date": "2023-05-16 19:22:15,335", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:15,336", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:15,355", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:15,379", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:23,398", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:23] "[35m[1mGET / HTTP/1.1[0m" 500 -"}
+{"date": "2023-05-16 19:22:23,422", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:23,423", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:23,448", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:23,454", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:28,492", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:28] "[35m[1mGET / HTTP/1.1[0m" 500 -"}
+{"date": "2023-05-16 19:22:28,512", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:28,512", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:28,527", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:28,538", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:22:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:22:58,937", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-16 19:22:58,959", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 19:22:59,057", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 19:22:59,061", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 19:23:02,154", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:23:02] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 19:23:02,257", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:23:02] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:23:12,149", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:23:12] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 19:23:25,717", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:23:25] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 19:23:25,751", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:23:25] "[36mGET /static/img/gym.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:27:13,568", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:27:13] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 19:27:13,612", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:27:13] "GET /static/img/background.png HTTP/1.1" 200 -"}
+{"date": "2023-05-16 19:27:59,966", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-16 19:27:59,989", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 19:28:00,109", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 19:28:00,117", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 19:28:02,592", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:02] "[35m[1mGET / HTTP/1.1[0m" 500 -"}
+{"date": "2023-05-16 19:28:02,620", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:28:02,621", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:28:02,634", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:28:02,648", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:28:24,494", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-16 19:28:24,537", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 19:28:24,665", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 19:28:24,670", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 19:28:33,037", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-16 19:28:33,065", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 19:28:33,158", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 19:28:33,162", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 19:28:36,336", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-16 19:28:36,363", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-16 19:28:36,471", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-16 19:28:36,474", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-16 19:28:48,174", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-16 19:28:48,259", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:48] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-16 19:28:57,671", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:28:57] "[33mGET /about.html HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-16 19:29:03,312", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:29:03] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-16 19:29:03,349", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [16/May/2023 19:29:03] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:39:42,545", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-17 07:39:42,545", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 07:39:42,546", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 07:39:42,636", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 07:39:42,643", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 07:39:49,380", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:49] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:39:49,484", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:49] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:39:52,474", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:52] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:39:52,510", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:52] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:39:56,324", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:39:56,358", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:56] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:39:57,788", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:57] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:39:57,821", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:39:57] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:40:22,989", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:40:22] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:40:23,023", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:40:23] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:41:14,519", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:41:14] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:41:14,556", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:41:14] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:44:34,322", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:44:34,424", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:34] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:44:41,889", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:41] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:44:41,923", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:41] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:44:51,123", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:51] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:44:51,164", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:51] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:44:53,604", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:53] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:44:53,643", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:53] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:44:56,804", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:56] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:44:56,840", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:56] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:44:58,304", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:58] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:44:58,338", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:44:58] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:45:33,188", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:45:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:45:33,219", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:45:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:46:13,929", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:46:13] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:46:13,949", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:46:13] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:46:15,339", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:46:15] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:46:15,372", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:46:15] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:47:29,802", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:47:29] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:47:29,835", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:47:29] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:47:46,423", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:47:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:47:46,456", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:47:46] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:49:08,680", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:49:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:49:08,715", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:49:08] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:50:10,250", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:50:10] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:50:10,281", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:50:10] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:50:33,448", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:50:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:50:33,481", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:50:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:50:56,181", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:50:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:50:56,210", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:50:56] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:52:48,075", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:52:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:52:48,110", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:52:48] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:53:05,193", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:53:05,219", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:05] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:53:08,986", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:53:09,016", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:09] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:53:32,681", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:53:32,715", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:32] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:53:48,657", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:53:48,688", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:53:48] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:57:33,754", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:57:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:57:33,924", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:57:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 07:58:48,702", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:58:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 07:58:48,803", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 07:58:48] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:00:06,116", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:00:06] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:00:06,196", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:00:06] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:00:36,088", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:00:36] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:00:36,125", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:00:36] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:01:23,980", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:01:23] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:01:24,082", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:01:24] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:01:33,060", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:01:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:01:33,096", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:01:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:01:47,247", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:01:47] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:01:47,282", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:01:47] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:02:00,520", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:02:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:02:00,547", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:02:00] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:02:32,762", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:02:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:02:32,886", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:02:32] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:03:18,513", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:03:18] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:03:18,550", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:03:18] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:03:32,998", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:03:32] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:03:33,100", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:03:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:04:01,688", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:04:01] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:04:01,711", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:04:01] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:39:08,359", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:39:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:39:08,504", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:39:08] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:39:43,258", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 08:39:43,286", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 08:39:43,384", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 08:39:43,393", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 08:39:48,838", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:39:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:39:48,937", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:39:48] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:39:52,074", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:39:52] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:39:52,104", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:39:52] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:42:05,655", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:42:05] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-17 08:42:05,759", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 08:42:05] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 08:49:03,807", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 08:49:03,823", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 08:49:04,266", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 08:49:04,273", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:09:02,378", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:09:02,398", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:09:28,548", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-17 09:09:28,548", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 09:09:28,549", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:09:28,654", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:09:28,658", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:09:36,194", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:09:36] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:09:36,385", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:09:36] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:09:37,756", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:09:37] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:09:37,780", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:09:37] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:10:44,419", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:10:44,449", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:10:44,601", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:10:44,611", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:12:50,541", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:12:50,572", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:12:50,682", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:12:50,686", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:13:09,918", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:13:09] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:13:10,025", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:13:10] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:13:33,534", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:13:33,559", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:13:33,667", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:13:33,672", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:13:39,215", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:13:39] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:13:39,252", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:13:39] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:27:20,192", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-17 09:27:20,192", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 09:27:20,193", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:27:20,294", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:27:20,300", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:27:25,758", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:27:25] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:27:25,919", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:27:25] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:28:09,520", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:28:09,547", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:28:09,652", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:28:09,657", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:28:47,240", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:28:47,273", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:28:47,383", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:28:47,387", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:29:19,595", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:29:19,625", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:29:19,733", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:29:19,736", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:29:35,486", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:29:35,515", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:29:35,622", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:29:35,626", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:30:01,646", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:30:01,674", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:32:24,496", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-17 09:32:24,496", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 09:32:24,496", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:32:24,598", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:32:24,603", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 09:32:33,606", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:32:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:32:33,732", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:32:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:32:37,638", "log_level": "INFO", "module": "views", "message": "Adding what@deafmice.com to mail list"}
+{"date": "2023-05-17 09:32:37,671", "log_level": "DEBUG", "module": "connectionpool", "message": "Starting new HTTPS connection (1): api.mailgun.net:443"}
+{"date": "2023-05-17 09:32:37,958", "log_level": "DEBUG", "module": "connectionpool", "message": "https://api.mailgun.net:443 "POST /v3/lists/news@email.beforegreatness.com/members HTTP/1.1" 200 165"}
+{"date": "2023-05-17 09:32:37,959", "log_level": "INFO", "module": "views", "message": "{
+  "member": {
+    "address": "what@deafmice.com",
+    "name": "",
+    "subscribed": true,
+    "vars": {}
+  },
+  "message": "Mailing list member has been created"
+}"}
+{"date": "2023-05-17 09:32:37,961", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:32:37] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:32:38,004", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:32:38] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:35:36,464", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:35:36] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:35:36,584", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:35:36] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:35:37,771", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:35:37] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:35:37,803", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:35:37] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:37:00,014", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:37:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:37:00,127", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:37:00] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:40:56,872", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:40:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:40:57,020", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:40:57] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:41:04,067", "log_level": "INFO", "module": "views", "message": "Adding jeremy@funinternetthings.com to mail list"}
+{"date": "2023-05-17 09:41:04,095", "log_level": "DEBUG", "module": "connectionpool", "message": "Starting new HTTPS connection (1): api.mailgun.net:443"}
+{"date": "2023-05-17 09:41:04,201", "log_level": "DEBUG", "module": "connectionpool", "message": "https://api.mailgun.net:443 "POST /v3/lists/news@email.beforegreatness.com/members HTTP/1.1" 200 176"}
+{"date": "2023-05-17 09:41:04,201", "log_level": "INFO", "module": "views", "message": "{
+  "member": {
+    "address": "jeremy@funinternetthings.com",
+    "name": "",
+    "subscribed": true,
+    "vars": {}
+  },
+  "message": "Mailing list member has been created"
+}"}
+{"date": "2023-05-17 09:41:04,203", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:41:04] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:41:04,247", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:41:04] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:41:07,558", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:41:07] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 09:41:07,594", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 09:41:07] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 09:57:19,480", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 09:57:19,512", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 09:57:19,671", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 09:57:19,676", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 10:01:10,762", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 10:01:10,787", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 10:03:33,094", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-17 10:03:33,094", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 10:03:33,094", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 10:03:33,197", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 10:03:33,200", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 10:03:50,751", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:03:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:03:50,941", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:03:50] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:06:12,580", "log_level": "INFO", "module": "views", "message": "Adding jeremy@funinternetthings.com to mail list"}
+{"date": "2023-05-17 10:06:12,617", "log_level": "DEBUG", "module": "connectionpool", "message": "Starting new HTTPS connection (1): api.mailgun.net:443"}
+{"date": "2023-05-17 10:06:12,904", "log_level": "DEBUG", "module": "connectionpool", "message": "https://api.mailgun.net:443 "POST /v3/lists/news@email.beforegreatness.com/members HTTP/1.1" 200 176"}
+{"date": "2023-05-17 10:06:12,905", "log_level": "INFO", "module": "views", "message": "{
+  "member": {
+    "address": "jeremy@funinternetthings.com",
+    "name": "",
+    "subscribed": true,
+    "vars": {}
+  },
+  "message": "Mailing list member has been created"
+}"}
+{"date": "2023-05-17 10:06:12,908", "log_level": "DEBUG", "module": "connectionpool", "message": "Starting new HTTPS connection (1): api.mailgun.net:443"}
+{"date": "2023-05-17 10:06:13,238", "log_level": "DEBUG", "module": "connectionpool", "message": "https://api.mailgun.net:443 "POST /v3/email.beforegreatness.com/messages HTTP/1.1" 200 100"}
+{"date": "2023-05-17 10:06:13,245", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:06:13] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:06:13,373", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:06:13] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:13:32,999", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-17 10:13:32,999", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 10:13:32,999", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 10:13:33,109", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 10:13:33,115", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 10:13:38,198", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:13:38] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:13:38,364", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:13:38] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:14:26,116", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:14:26] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:14:26,182", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:14:26] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:15:45,963", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:15:45] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:15:46,063", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:15:46] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:17:42,296", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:17:42] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:17:42,373", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:17:42] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:26:02,753", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:26:02] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:26:02,896", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:26:02] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:26:32,979", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:26:32] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:26:33,016", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:26:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:28:03,121", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:28:03] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:28:03,237", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:28:03] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:28:43,509", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:28:43] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:28:43,549", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:28:43] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:29:35,647", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:29:35] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:29:35,724", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:29:35] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:30:05,877", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:30:05] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:30:05,900", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:30:05] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:30:33,465", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:30:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:30:33,507", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:30:33] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:30:38,435", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:30:38] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:30:38,522", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:30:38] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:31:11,547", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:31:11] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:31:11,591", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:31:11] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:31:31,549", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-05-17 10:31:31,579", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 10:31:31,733", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 10:31:31,742", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 119-103-942"}
+{"date": "2023-05-17 10:32:15,338", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:32:15] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:32:15,426", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:32:15] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 10:32:28,285", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:32:28] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 10:32:28,324", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 10:32:28] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 11:46:30,585", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000"}
+{"date": "2023-05-17 11:46:30,585", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 11:46:30,586", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 11:46:30,719", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 11:46:30,726", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-05-17 11:46:41,441", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:41] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 11:46:41,886", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:41] "GET /static/img/background.png HTTP/1.1" 200 -"}
+{"date": "2023-05-17 11:46:46,177", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 11:46:46,215", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:46] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 11:46:46,869", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:46] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-17 11:46:46,908", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:46] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 11:46:56,366", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:56] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 11:46:56,403", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:46:56] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 11:47:00,981", "log_level": "INFO", "module": "views", "message": "Adding hello@funinternetthings.com to mail list"}
+{"date": "2023-05-17 11:47:00,990", "log_level": "DEBUG", "module": "connectionpool", "message": "Starting new HTTPS connection (1): api.mailgun.net:443"}
+{"date": "2023-05-17 11:47:01,262", "log_level": "DEBUG", "module": "connectionpool", "message": "https://api.mailgun.net:443 "POST /v3/lists/news@email.beforegreatness.com/members HTTP/1.1" 200 175"}
+{"date": "2023-05-17 11:47:01,263", "log_level": "INFO", "module": "views", "message": "{
+  "member": {
+    "address": "hello@funinternetthings.com",
+    "name": "",
+    "subscribed": true,
+    "vars": {}
+  },
+  "message": "Mailing list member has been created"
+}"}
+{"date": "2023-05-17 11:47:01,265", "log_level": "DEBUG", "module": "connectionpool", "message": "Starting new HTTPS connection (1): api.mailgun.net:443"}
+{"date": "2023-05-17 11:47:01,542", "log_level": "DEBUG", "module": "connectionpool", "message": "https://api.mailgun.net:443 "POST /v3/email.beforegreatness.com/messages HTTP/1.1" 200 100"}
+{"date": "2023-05-17 11:47:01,549", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:47:01] "POST /maillist HTTP/1.1" 200 -"}
+{"date": "2023-05-17 11:47:01,591", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 11:47:01] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-17 13:30:01,800", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-05-17 13:30:01,800", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-17 13:30:01,801", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-17 13:30:01,915", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-17 13:30:01,920", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-05-17 13:30:18,325", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 13:30:18] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-17 13:30:19,039", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [17/May/2023 13:30:19] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-20 20:37:25,011", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000"}
+{"date": "2023-05-20 20:37:25,012", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-05-20 20:37:25,012", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-05-20 20:37:25,128", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-05-20 20:37:25,134", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-05-20 20:37:40,556", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [20/May/2023 20:37:40] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-20 20:37:40,873", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [20/May/2023 20:37:40] "GET /static/img/background.png HTTP/1.1" 200 -"}
+{"date": "2023-05-20 20:37:40,988", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [20/May/2023 20:37:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-05-20 20:37:43,727", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [20/May/2023 20:37:43] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-05-20 20:37:43,754", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [20/May/2023 20:37:43] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-05-20 20:38:06,397", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [20/May/2023 20:38:06] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-05-20 20:38:06,424", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [20/May/2023 20:38:06] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-06-09 10:38:23,412", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-06-09 10:38:23,412", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-06-09 10:38:23,413", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 10:38:23,522", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 10:38:23,528", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 10:38:46,835", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 10:38:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 10:38:47,039", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 10:38:47] "GET /static/img/background.png HTTP/1.1" 200 -"}
+{"date": "2023-06-09 10:38:47,154", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 10:38:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-06-09 10:38:52,216", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 10:38:52] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 10:38:52,243", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 10:38:52] "[36mGET /static/img/background.png HTTP/1.1[0m" 304 -"}
+{"date": "2023-06-09 11:23:59,297", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-06-09 11:23:59,326", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 11:23:59,491", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 11:23:59,501", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 11:26:49,675", "log_level": "INFO", "module": "_internal", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050"}
+{"date": "2023-06-09 11:26:49,675", "log_level": "INFO", "module": "_internal", "message": "[33mPress CTRL+C to quit[0m"}
+{"date": "2023-06-09 11:26:49,676", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 11:26:49,784", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 11:26:49,789", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 11:26:55,764", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:26:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 11:26:55,961", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:26:55] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:28:30,848", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:28:30] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:28:31,160", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:28:31] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:28:33,993", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:28:33] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 11:28:34,242", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:28:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-06-09 11:30:12,572", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:30:12] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:30:12,575", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:30:12] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:32:56,370", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:32:56] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:32:57,125", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:32:57] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 11:32:57,279", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:32:57] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:32:59,869", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:32:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 11:33:00,039", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:33:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-06-09 11:35:21,677", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:35:21] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:35:25,961", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:35:25] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 11:35:28,317", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:35:28] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 11:35:29,249", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:35:29] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-06-09 11:36:13,746", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 11:36:13] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 12:03:39,334", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 12:03:39] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 12:03:39,337", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 12:03:39] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 12:04:41,980", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 12:04:41] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 12:04:42,386", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 12:04:42] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 17:38:39,848", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:38:39] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 17:48:51,559", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:48:51] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 17:48:52,731", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:48:52] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 17:48:52,969", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:48:52] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 17:49:08,523", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:49:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 17:49:39,374", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:49:39] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 17:49:51,596", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:49:51] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 17:51:16,409", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:51:16] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 17:52:37,931", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:52:37] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 17:52:38,614", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:52:38] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 17:52:38,915", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:52:38] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 17:57:57,831", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:57:57] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 17:57:58,543", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:57:58] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 17:57:58,875", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 17:57:58] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:01:56,599", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:01:56] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:01:57,280", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:01:57] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:01:59,102", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:01:59] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:02:00,334", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:02:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:02:34,522", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:02:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:02:50,240", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:02:50] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:02:59,681", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:02:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:03:14,803", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:03:14] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:09:54,692", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:09:54] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:09:55,171", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:09:55] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:09:55,392", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:09:55] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:10:05,294", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:10:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:10:57,462", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:10:57] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:10:58,529", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:10:58] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:10:58,672", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:10:58] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:10:59,279", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:10:59] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:11:00,425", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:11:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:11:00,569", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:11:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-06-09 18:11:17,067", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:11:17] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:11:40,819", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:11:40] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:12:06,735", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:12:06] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:12:17,937", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:12:17] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:12:50,832", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:12:50] "GET /about HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:13:08,572", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:13:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:15:37,772", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:15:37] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:15:38,389", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:15:38] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:15:38,538", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:15:38] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:15:52,548", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:15:52] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:16:08,791", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:16:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:16:43,280", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:16:43] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:16:45,542", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:16:45] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:16:45,688", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:16:45] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:17:00,063", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:17:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:17:02,159", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:17:02] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:17:20,389", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:17:20] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:17:21,120", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:17:21] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:17:25,181", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:17:25] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:17:25,335", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:17:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-06-09 18:18:17,455", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:18:17] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:18:17,916", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:18:17] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:18:19,037", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:18:19] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:18:22,057", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:18:22] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:18:22,154", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:18:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"date": "2023-06-09 18:18:24,224", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:18:24] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:20:18,023", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:20:18] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:20:18,709", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:20:18] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:20:19,004", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:20:19] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:20:46,375", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:20:46] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:20:53,581", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:20:53] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:23:06,862", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:23:06] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:23:08,100", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:23:08] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:23:08,415", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:23:08] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:25:19,283", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:25:19] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:27:28,382", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:27:28] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:28:00,685", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:28:00] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:28:16,839", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:28:16] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:28:17,670", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:28:17] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:29:59,662", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:29:59] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:31:32,708", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:31:32] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:31:34,059", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:31:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:31:34,246", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:31:34] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:31:34,710", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:31:34] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:31:35,186", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:31:35] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:31:39,284", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:31:39] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:37:11,407", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:37:11] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:37:12,081", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:37:12] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:37:12,084", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:37:12] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:38:51,667", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:38:51] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:38:52,283", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:38:52] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:38:52,462", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:38:52] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:41:09,621", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-06-09 18:41:09,648", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 18:41:09,816", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 18:41:09,824", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 18:41:20,711", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:41:20] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:41:51,432", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-06-09 18:41:51,465", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 18:41:51,625", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 18:41:51,630", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 18:41:57,936", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:41:57] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:41:58,168", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:41:58] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:42:45,511", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-06-09 18:42:45,546", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 18:42:45,707", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 18:42:45,712", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 18:42:48,104", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:42:48] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:42:48,140", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:42:48] "[35m[1mGET /static/videos/pexels-tobias-bjørkli-2334654-426x240-30fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:43:37,672", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:43:37] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:43:43,645", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-06-09 18:43:43,679", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 18:43:43,803", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 18:43:43,807", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 18:43:44,047", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:43:44] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:43:44,074", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:43:44] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:43:44,077", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:43:44] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:43:58,003", "log_level": "INFO", "module": "_internal", "message": " * Detected change in '/Users/jeremy/Documents/current_projects/beforegreatness_flask/b4g/home/views.py', reloading"}
+{"date": "2023-06-09 18:43:58,024", "log_level": "INFO", "module": "_internal", "message": " * Restarting with stat"}
+{"date": "2023-06-09 18:43:58,138", "log_level": "WARNING", "module": "_internal", "message": " * Debugger is active!"}
+{"date": "2023-06-09 18:43:58,142", "log_level": "INFO", "module": "_internal", "message": " * Debugger PIN: 190-003-770"}
+{"date": "2023-06-09 18:48:43,784", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:48:43] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:48:46,050", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:48:46] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:50:29,719", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:50:29] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:50:48,577", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:50:48] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:52:27,374", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:52:27] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:52:27,379", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:52:27] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:54:12,607", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:54:12] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-09 18:54:45,377", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:54:45] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-09 18:54:45,576", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [09/Jun/2023 18:54:45] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-10 10:31:04,020", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [10/Jun/2023 10:31:04] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
+{"date": "2023-06-10 10:31:05,380", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [10/Jun/2023 10:31:05] "GET / HTTP/1.1" 200 -"}
+{"date": "2023-06-10 10:31:05,709", "log_level": "INFO", "module": "_internal", "message": "127.0.0.1 - - [10/Jun/2023 10:31:05] "[35m[1mGET /static/videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4 HTTP/1.1[0m" 206 -"}
