@@ -1,4 +1,5 @@
 .idea/
+*.syncthing*
 *.DS_Store
 *.db
 # Byte-compiled / optimized / DLL files
