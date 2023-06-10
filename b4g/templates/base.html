@@ -28,26 +28,47 @@
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Permanent+Marker">
 
+    <!-- Noto+Sans+Mono-->
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono">
+
+    <!-- B612 Mono -->
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=B612+Mono">
+
     <!--    Add background style here for Jinja2 to work-->
     <style>
-        .header-image {
-            background-image: url("{{ url_for('static', filename='img/background.png') }}");
-            background-position: center center;
-            background-repeat: repeat;
-            background-attachment: fixed;
-            background-size: cover;
-            background-color: #000;
-        }
+
         .permanent-marker {
-        font-family: 'Permanent Marker', serif;
-      }
+            font-family: 'Permanent Marker', serif;
+        }
+        .noto-sans-mono {
+            font-family: 'Noto Sans Mono', serif;
+        }
+        .b612-mono {
+            font-family: 'B612 Mono', serif;
+        }
+        /* CSS styles for the video background */
+        #video-background {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -1;
+        }
     </style>
 
 </head>
 
 <body>
-
-<section class="hero is-success is-fullheight header-image ">
+<video id="video-background" autoplay muted loop>
+      <source src="{{ video_url }}" type="video/mp4">
+      <!-- Add additional source elements for different video formats if desired -->
+</video>
+<section class="hero is-transparent is-fullheight  ">
 
   <!-- Hero head: will stick at the top -->
     <div class="hero-head">
@@ -69,18 +90,18 @@
                 <!-- For the left side NavBar -->
             </div>
 
-            <div class="navbar-end">
+            <div class="navbar-end ">
                 <!-- For the right side NavBar -->
-                <a class="navbar-item" href="{{ url_for('home.index') }}">
-                    Home
+                <a class="navbar-item b612-mono has-text-white" href="{{ url_for('home.index') }}">
+                    home
                 </a>
 
-                <a href="{{ url_for('home.about') }}" class="navbar-item">
-                    About Us
-                </a>
+<!--                <a href="{{ url_for('home.about') }}" class="navbar-item b612-mono has-text-white">-->
+<!--                    about us-->
+<!--                </a>-->
 
-                <a href="https://blog.beforegreatness.com" class="navbar-item">
-                    Our Blog
+                <a href="https://blog.beforegreatness.com" class="navbar-item b612-mono has-text-white">
+                    our blog
                 </a>
 
             </div>
@@ -106,45 +127,47 @@
                {% endblock %}
             </div>
     </div>
-    <div class="hero-foot">
-    <nav class="tabs is-boxed is-fullwidth is-centered">
-      <div class="container">
-        <ul>
-          <li>
-              <a href="https://twitter.com/beforeGR8ness">
-              <div class="icon-text">
-              <span class="icon has-text-info">
-                <i class="fa-brands fa-twitter"></i>
-              </span>
-              <span>Twitter</span>
-            </div>
-                  </a>
-          </li>
-          <li>
-              <a href="https://www.tiktok.com/@beforegr8ness?is_from_webapp=1&sender_device=pc">
-              <div class="icon-text">
-              <span class="icon has-text-warning">
-                <i class="fa-brands fa-tiktok"></i>
-              </span>
-              <span>TikTok</span>
-            </div>
-              </a>
-          </li>
-          <li>
-              <a href="http://instagram.com/beforegr8ness">
-              <div class="icon-text">
-              <span class="icon has-text-success">
-                <i class="fa-brands fa-square-instagram"></i>
-              </span>
-              <span>Instagram</span>
-            </div>
-              </a>
-          </li>
 
-        </ul>
-      </div>
-    </nav>
-  </div>
+
+<!--    <div class="hero-foot">-->
+<!--    <nav class="tabs is-boxed is-fullwidth is-centered">-->
+<!--      <div class="container">-->
+<!--        <ul>-->
+<!--          <li>-->
+<!--              <a href="https://twitter.com/beforeGR8ness">-->
+<!--              <div class="icon-text">-->
+<!--              <span class="icon has-text-info">-->
+<!--                <i class="fa-brands fa-twitter"></i>-->
+<!--              </span>-->
+<!--              <span>Twitter</span>-->
+<!--            </div>-->
+<!--                  </a>-->
+<!--          </li>-->
+<!--          <li>-->
+<!--              <a href="https://www.tiktok.com/@beforegr8ness?is_from_webapp=1&sender_device=pc">-->
+<!--              <div class="icon-text">-->
+<!--              <span class="icon has-text-warning">-->
+<!--                <i class="fa-brands fa-tiktok"></i>-->
+<!--              </span>-->
+<!--              <span>TikTok</span>-->
+<!--            </div>-->
+<!--              </a>-->
+<!--          </li>-->
+<!--          <li>-->
+<!--              <a href="http://instagram.com/beforegr8ness">-->
+<!--              <div class="icon-text">-->
+<!--              <span class="icon has-text-success">-->
+<!--                <i class="fa-brands fa-square-instagram"></i>-->
+<!--              </span>-->
+<!--              <span>Instagram</span>-->
+<!--            </div>-->
+<!--              </a>-->
+<!--          </li>-->
+
+<!--        </ul>-->
+<!--      </div>-->
+<!--    </nav>-->
+<!--  </div>-->
 
 <!-- JavaScript to make burger menu work -->
 <script>

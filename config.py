@@ -6,7 +6,7 @@ from datetime import timedelta
 # Put any configurations here that are common across all environments
 
 # App Version Number
-APP_VERSION = '0.0.1'
+APP_VERSION = '0.0.3'
 
 # Name of the app
 APP_NAME = 'app'

@@ -57,13 +57,18 @@ def send_welcome_message(email):
 @home.route('/', methods=['GET'])
 def index():
     """ Main page """
-    return render_template('index.html')
+    video_url = url_for(
+        'static',
+        filename='videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4'
+    )
+    return render_template('index.html', video_url=video_url)
 
 
-@home.route('/about', methods=['GET'])
-def about():
-    """ About Us page """
-    return render_template('about.html')
+# TODO Rewrite About Us page
+# @home.route('/about', methods=['GET'])
+# def about():
+#     """ About Us page """
+#     return render_template('about.html')
 
 
 @home.route('/maillist', methods=['POST'])
@@ -71,9 +76,8 @@ def maillist_post():
     """ Subscribe to mail list endpoint """
     email = request.form.get('email')
     added = add_list_member(email=email)
-    flash("Thank you for subscribing, check your email.")
+    flash("Thank you for your interest, please check your email for updates.")
     logger.info(added.text)
     # Send thank you message
     send_welcome_message(email=email)
-    # TODO send email over to Ghost for newsletter subscription
     return render_template('index.html')
