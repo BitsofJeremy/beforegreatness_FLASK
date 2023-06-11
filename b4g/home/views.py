@@ -57,7 +57,7 @@ def send_welcome_message(email):
 @home.route('/', methods=['GET'])
 def index():
     """ Main page """
-    logo_url = url_for('static', filename='images/BG_MTN_LOGO_WHITE-384w.png')
+    logo_url = url_for('static', filename='images/BG_MTN_LOGO_WHITE-256w.png')
     video_url = url_for(
         'static',
         filename='videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4'
