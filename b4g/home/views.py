@@ -58,6 +58,7 @@ def send_welcome_message(email):
 def index():
     """ Main page """
     logo_url = url_for('static', filename='images/BG_MTN_LOGO_WHITE-256w.png')
+    brand_logo_url = url_for('static', filename='images/BG_MTN_LOGO_horizontal-white-words.png')
     video_url = url_for(
         'static',
         filename='videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4'
@@ -65,15 +66,26 @@ def index():
     return render_template(
         'index.html',
         video_url=video_url,
-        logo_url=logo_url
+        logo_url=logo_url,
+        brand_logo_url=brand_logo_url
     )
 
 
-# TODO Rewrite About Us page
-# @home.route('/about', methods=['GET'])
-# def about():
-#     """ About Us page """
-#     return render_template('about.html')
+@home.route('/about', methods=['GET'])
+def about():
+    """ About Us page """
+    logo_url = url_for('static', filename='images/BG_MTN_LOGO_WHITE-256w.png')
+    brand_logo_url = url_for('static', filename='images/BG_MTN_LOGO_horizontal-white-words.png')
+    video_url = url_for(
+        'static',
+        filename='videos/pexels-eberhard-grossgasteiger-857251-540x360-25fps.mp4'
+    )
+    return render_template(
+        'about.html',
+        video_url=video_url,
+        logo_url=logo_url,
+        brand_logo_url=brand_logo_url
+    )
 
 
 @home.route('/maillist', methods=['POST'])

@@ -34,6 +34,7 @@
         .b612-mono {
             font-family: 'B612 Mono', serif;
         }
+
         /* CSS styles for the video background */
         #video-container {
             position: fixed;
@@ -72,7 +73,9 @@
     <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
             <!-- Add logo here -->
-
+            <a class="navbar-item" href="{{ url_for('home.index') }}">
+                <img src="{{ brand_logo_url }}" height="28">
+            </a>
             <!-- burgers Mmmmmmm -->
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navigation">
               <span aria-hidden="true"></span>
@@ -88,11 +91,15 @@
 
             <div class="navbar-end ">
                 <!-- For the right side NavBar -->
-                <a class="navbar-item b612-mono has-text-white" href="{{ url_for('home.index') }}">
+                <a class="navbar-item b612-mono has-text-primary" href="{{ url_for('home.index') }}">
                     home
                 </a>
 
-                <a href="https://blog.beforegreatness.com" class="navbar-item b612-mono has-text-white">
+                <a class="navbar-item b612-mono has-text-primary" href="{{ url_for('home.about') }}">
+                    about
+                </a>
+
+                <a href="https://blog.beforegreatness.com" class="navbar-item b612-mono has-text-primary">
                     our blog
                 </a>
 
@@ -103,7 +110,7 @@
 
   <!-- Hero content: will be in the middle -->
     <div class="hero-body">
-            <div class="container is-fluid has-text-centered">
+            <div class="container is-widescreen has-text-centered">
                 <!-- messages from FLask -->
             {% with messages = get_flashed_messages() %}
                 {% if messages %}

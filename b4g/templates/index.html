@@ -3,17 +3,12 @@
 {% extends "base.html" %}
 
 {% block content %}
-<!--TODO add logo-->
-
         <div class="columns is-mobile is-centered">
             <figure class="image ">
                 <img src="{{ logo_url }}">
             </figure>
         </div>
         <br/>
-        <div class="title b612-mono is-2 has-text-grey-lighter">
-            before greatness
-        </div>
         <div class="title b612-mono is-4 has-text-grey-lighter">
             building better humans
         </div>
@@ -22,7 +17,7 @@
         <form method="POST" action="/maillist">
             <div class="field has-addons">
                 <div class="control has-icons-left">
-                    <input class="input is-medium b612-mono" type="email" name="email" placeholder="email address" autofocus="">
+                    <input class="input is-medium b612-mono" type="email" name="email" placeholder="email for updates" autofocus="">
                     <span class="icon is-small is-left">
                         <i class="fas fa-envelope"></i>
                     </span>
