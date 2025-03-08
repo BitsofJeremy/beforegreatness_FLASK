@@ -61,7 +61,7 @@ def index():
     brand_logo_url = url_for('static', filename='images/BG_MTN_LOGO_horizontal-white-words.png')
     video_url = url_for(
         'static',
-        filename='videos/stunning-rocky-mountain-landscape-timelapse-29603233_540x360_25fps.mp4'
+        filename='videos/stunning-rocky-mountain-landscape-timelapse-29603233_1280x720_24fps.mp4'
     )
     return render_template(
         'index.html',
